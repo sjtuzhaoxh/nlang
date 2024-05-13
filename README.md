@@ -7,6 +7,7 @@ int main() {
     printf("hello, world\n");
     return 0;
 }
+```
 
 ### hello world for JAVA
 
@@ -16,8 +17,10 @@ public class HelloWorld {
         System.out.println("Hello, World!");
     }
 }
+```
 
 ### hello world for nlang
+
 ```
 nlang: 中文
 plang：java
